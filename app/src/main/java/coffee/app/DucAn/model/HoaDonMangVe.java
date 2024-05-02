@@ -4,7 +4,7 @@ import androidx.annotation.NonNull;
 
 import java.util.Date;
 
-public class HoaDonMangVe implements java.io.Serializable{
+public class  HoaDonMangVe implements java.io.Serializable{
 
     private int maHoaDon;
     private Date gioVao;
