@@ -17,7 +17,7 @@ import coffee.app.DucAn.database.CoffeeDB;
 import coffee.app.DucAn.model.HoaDonMangVe;
 import coffee.app.DucAn.utils.XDate;
 
-public class HoaDonMangVeDao {
+public class  HoaDonMangVeDao {
     CoffeeDB coffeeDB;
     @SuppressLint("SimpleDateFormat")
     SimpleDateFormat spf = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
