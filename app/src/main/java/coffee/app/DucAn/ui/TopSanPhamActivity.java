@@ -13,7 +13,7 @@ import coffee.app.DucAn.model.HoaDonChiTiet;
 
 public class TopSanPhamActivity extends AppCompatActivity {
 
-    RecyclerView recyclerView;
+     RecyclerView recyclerView;
     List<HoaDonChiTiet> hoaDonChiTietList;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
